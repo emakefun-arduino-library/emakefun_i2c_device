@@ -1,1 +1,1 @@
-# Emakefun I2c Device Library
+# Emakefun I2C Device Library
